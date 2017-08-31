@@ -1,0 +1,10 @@
+D:\1111111111111\InterviewProject\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\1111111111111\InterviewProject\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\1111111111111\InterviewProject\UnitTestProject1\bin\Debug\ConsoleApplication1.exe
+D:\1111111111111\InterviewProject\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+D:\1111111111111\InterviewProject\UnitTestProject1\bin\Debug\ConsoleApplication1.pdb
+D:\1111111111111\InterviewProject\UnitTestProject1\bin\Debug\Newtonsoft.Json.pdb
+D:\1111111111111\InterviewProject\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+D:\1111111111111\InterviewProject\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\1111111111111\InterviewProject\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\1111111111111\InterviewProject\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
